@@ -1,0 +1,25 @@
+[
+    {
+        "name": "Statistic Cookies",
+        "description": "Cookies, device identifiers, or other information can be stored or accessed on your device for the purposes presented to you.",
+        "dataName": "Κάποια Cookies",
+        "systemName":"statistiks",
+        "cookiesDetails": [ { "name":"_nopKati","description": "Τι είναι αυτό το cookie"}]
+    },
+    {
+        "name": "Advertising Cookies",
+        "description": "Cookies, device identifiers, or other information can be stored or accessed on your device for the purposes presented to you.",
+        "dataName": "Advertising Cookies",
+        "systemName": "advertising",
+        "cookiesDetails": [
+            {
+            "name": "_ga",
+                "description": "_ga: Τι είναι αυτό το cookie"
+            },
+            {
+                "name": "_gt",
+                "description": "_gt: Τι είναι και αυτό το cookie"
+            }
+        ]
+    }
+]
